@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "First package",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkemp814/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "James E. Kemp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkemp814/test/issues"
+  },
+  "homepage": "https://github.com/jkemp814/test#readme"
+}
